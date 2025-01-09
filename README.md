@@ -76,3 +76,6 @@ composer require codenteq/azure-mailer-driver
 
 ## How to contribute
 Azure Mailer Driver is always open for direct contributions. Contributions can be in the form of design suggestions, documentation improvements, new component suggestions, code improvements, adding new features or fixing problems. For more information please check our [Contribution Guideline document.](https://github.com/codenteq/azure-mailer-driver/blob/master/CONTRIBUTING.md)
+
+## Acknowledgments
+This repository is a fork of the original project created by [Rafael Villa Verde](https://github.com/hafael). The code has been modified and improved for compatibility with the Symfony framework and packaged for easier use with Composer. Special thanks to the original author for their work. You can find the original repository here: https://github.com/hafael/azure-mailer-driver.
